@@ -1,8 +1,8 @@
-Hi 👋, I'm Abhijeet Biswal
-A passionate Software Engineer from India
+<h1 align="center">Hi 👋, I'm Abhijeet Biswal</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on React Native & React JS <br><br>🌱 I’m currently learning Typescript<br><br>🤝 I’m looking for a new role in React Native & React JS 
+🔭 I’m currently working on React Native & React JS <br><br>🌱 I’m currently learning Typescript<br><br>🤝 I’m looking for a new role in React Native & React JS <br><br> 📫 How to reach me abhijeetbiswal1@gmail.com 
 
 
 ## 🌐 Socials:
