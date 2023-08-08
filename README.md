@@ -2,7 +2,7 @@ Hi 👋, I'm Abhijeet Biswal
 A passionate Software Engineer from India
 
 # 💫 About Me:
-🔭 I’m currently working on React Native & React JS <br><br>🌱 I’m currently learning Typescript<br><br>🤝 I’m looking for a new role React Native & React JS 
+🔭 I’m currently working on React Native & React JS <br><br>🌱 I’m currently learning Typescript<br><br>🤝 I’m looking for a new role in React Native & React JS 
 
 
 ## 🌐 Socials:
